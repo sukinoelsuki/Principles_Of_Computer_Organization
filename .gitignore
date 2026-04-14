@@ -10,3 +10,7 @@
 *.exe
 *.out
 *.bin
+*.jar
+
+# 参考文件
+references/
